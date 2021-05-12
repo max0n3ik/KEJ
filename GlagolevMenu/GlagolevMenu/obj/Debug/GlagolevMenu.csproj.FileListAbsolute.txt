@@ -1,0 +1,17 @@
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu.csprojAssemblyReference.cache
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\ResourceFolder\Dictionary.baml
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\WindowsFolder\WinMenu.g.cs
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu_MarkupCompile.cache
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu_MarkupCompile.lref
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\bin\Debug\GlagolevMenu.exe.config
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\bin\Debug\GlagolevMenu.exe
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\bin\Debug\GlagolevMenu.pdb
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\App.g.cs
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\App.baml
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\WindowsFolder\WinMenu.baml
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu.g.resources
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu.Properties.Resources.resources
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu.csproj.GenerateResource.cache
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu.csproj.CoreCompileInputs.cache
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu.exe
+C:\Users\306pc11\Documents\Д03-1ИСП\Glagolev\GlagolevMenu\GlagolevMenu\obj\Debug\GlagolevMenu.pdb
